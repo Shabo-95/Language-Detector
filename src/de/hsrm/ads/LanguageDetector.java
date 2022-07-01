@@ -146,7 +146,7 @@ public class LanguageDetector {
 	}
 
 	public static void main(String[] args) {
-		runTest(".\\..\\alice", 4, 120001);
+		runTest(".\\alice", 4, 120001);
 	}
 	/*
 	 * 
